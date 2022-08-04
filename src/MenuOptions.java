@@ -89,5 +89,23 @@ public class MenuOptions {
         }
     }
 
+    //File creation function
+    protected static void createFile (String fileToBeCreated) {
+        File file = new File( (System.getProperty("user.dir") ) + "\\" + fileToBeCreated );
+
+        try {
+            if (file.createNewFile() ) {
+                System.out.println("File Has Been Created!");
+            } else {
+                System.out.println("Sorry This File already exists");
+            }
+        } catch (IOException e) {
+
+            e.printStackTrace();
+        }
+    }
+
+
+
 
 }

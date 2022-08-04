@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Add bubble sort to sort files into ascending order">
+    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Add function to allow user to search for a file with corresponding return messages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuOptions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,35 @@
       <option name="project" value="LOCAL" />
       <updated>1659574799722</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add function to list the files">
+      <created>1659574956412</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659574956412</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add function to list the files">
+      <created>1659574998982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659574998982</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add function to allow user to delete a file">
+      <created>1659575087079</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575087079</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add function to allow user to search for a file with corresponding return messages">
+      <created>1659575196530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575196530</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +137,9 @@
     <MESSAGE value="Add two classes to src file" />
     <MESSAGE value="Add imports to MenuOptions" />
     <MESSAGE value="Add bubble sort to sort files into ascending order" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add bubble sort to sort files into ascending order" />
+    <MESSAGE value="Add function to list the files" />
+    <MESSAGE value="Add function to allow user to delete a file" />
+    <MESSAGE value="Add function to allow user to search for a file with corresponding return messages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add function to allow user to search for a file with corresponding return messages" />
   </component>
 </project>
