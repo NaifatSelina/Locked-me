@@ -41,4 +41,16 @@ public class WelcomeClass {
                     {
                         System.out.println("Null Exception occurred");
                     }
-            }
+
+                    switch(choice)
+                    {
+                        case 1:
+                            //Creates file
+                            System.out.println("Name the file to be created: ");
+                            String fileCreate = sc.next();
+
+                            // Calling the function to create the file
+                            MenuOptions.createFile(fileCreate);
+                            break;
+
+                    }}}}}

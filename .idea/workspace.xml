@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Add function to allow user to search for a file with corresponding return messages">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuOptions.java" afterDir="false" />
+    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Add function to list all files and detailed menu options to welcome class">
+      <change beforePath="$PROJECT_DIR$/src/WelcomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WelcomeClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,35 @@
       <option name="project" value="LOCAL" />
       <updated>1659575196530</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add function to allow user to create a file">
+      <created>1659575300747</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575300747</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add import to WelcomeClass">
+      <created>1659575427978</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575427978</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add welcome page info and first menu">
+      <created>1659575525617</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575525617</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add function to list all files and detailed menu options to welcome class">
+      <created>1659575694622</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575694622</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +167,10 @@
     <MESSAGE value="Add function to list the files" />
     <MESSAGE value="Add function to allow user to delete a file" />
     <MESSAGE value="Add function to allow user to search for a file with corresponding return messages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function to allow user to search for a file with corresponding return messages" />
+    <MESSAGE value="Add function to allow user to create a file" />
+    <MESSAGE value="Add import to WelcomeClass" />
+    <MESSAGE value="Add welcome page info and first menu" />
+    <MESSAGE value="Add function to list all files and detailed menu options to welcome class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add function to list all files and detailed menu options to welcome class" />
   </component>
 </project>
