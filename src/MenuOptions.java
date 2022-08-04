@@ -32,7 +32,7 @@ public class MenuOptions {
         fileCount = listOfFiles.length;
 
 
-        System.out.println("Files In Ascending Order: ");
+        System.out.println("All Files In Ascending Order: ");
         for (int i = 0; i < fileCount; i++) {
             if (listOfFiles[i].isFile()) {
                 filenames.add(listOfFiles[i].getName());
