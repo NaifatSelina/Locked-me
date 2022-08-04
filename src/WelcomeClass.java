@@ -49,8 +49,25 @@ public class WelcomeClass {
                             System.out.println("Name the file to be created: ");
                             String fileCreate = sc.next();
 
-                            // Calling the function to create the file
+                            // Call function to create the file
                             MenuOptions.createFile(fileCreate);
                             break;
+                        case 2:
+                            //deletes file
+                            System.out.print("Name the file to be deleted: ");
+                            String fileDelete = sc.next();
+
+                            // Call function to delete the file
+                            MenuOptions.deleteFile(fileDelete);
+                            break;
+                        case 3:
+                            //Search file
+                            System.out.println("Input the name of the file to be searched: ");
+                            String fileSearch = sc.next();
+
+                            // Call function to search the file
+                            MenuOptions.searchFile(fileSearch);
+                            break;
+
 
                     }}}}}
