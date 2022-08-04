@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Add function to list all files and detailed menu options to welcome class">
+    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Add switch loop case to call functions the delete and search for a file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WelcomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WelcomeClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659575694622</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add switch loop to call functions the create the file">
+      <created>1659575827565</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575827565</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add switch loop case to call functions the delete and search for a file">
+      <created>1659575946327</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1659575946327</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +186,8 @@
     <MESSAGE value="Add import to WelcomeClass" />
     <MESSAGE value="Add welcome page info and first menu" />
     <MESSAGE value="Add function to list all files and detailed menu options to welcome class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function to list all files and detailed menu options to welcome class" />
+    <MESSAGE value="Add switch loop to call functions the create the file" />
+    <MESSAGE value="Add switch loop case to call functions the delete and search for a file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add switch loop case to call functions the delete and search for a file" />
   </component>
 </project>

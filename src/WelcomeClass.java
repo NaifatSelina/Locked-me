@@ -69,5 +69,20 @@ public class WelcomeClass {
                             MenuOptions.searchFile(fileSearch);
                             break;
 
+                        default:
+                            //In the case of void user input execute this
+                            System.out.println("\n Invalid Input, Try again\n");
+                            break;
+                    }
 
-                    }}}}}
+                    break;
+                case 3:
+
+                    //Closing the application
+                    sc.close();
+                    System.out.println("\n Closing the Application, Good-Bye");
+                    System.exit(1);
+                    break;
+
+
+            }}}}
