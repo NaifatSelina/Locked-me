@@ -84,5 +84,9 @@ public class WelcomeClass {
                     System.exit(1);
                     break;
 
+                default:
+                    //In the case of unprecedented input execute this
+                    System.out.println("\n\n Oops! That input was invalid, Please Pick Options  1-3\n");
+                    break;
 
             }}}}

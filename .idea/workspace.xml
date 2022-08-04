@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Add switch loop case to call functions the delete and search for a file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2a47bf31-b65c-4f0c-b0c3-5bf1f455d95a" name="Changes" comment="Call function to close the application and display message to user if input is void">
       <change beforePath="$PROJECT_DIR$/src/WelcomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WelcomeClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659575946327</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Call function to close the application and display message to user if input is void">
+      <created>1659576138487</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659576138487</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +194,7 @@
     <MESSAGE value="Add function to list all files and detailed menu options to welcome class" />
     <MESSAGE value="Add switch loop to call functions the create the file" />
     <MESSAGE value="Add switch loop case to call functions the delete and search for a file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add switch loop case to call functions the delete and search for a file" />
+    <MESSAGE value="Call function to close the application and display message to user if input is void" />
+    <option name="LAST_COMMIT_MESSAGE" value="Call function to close the application and display message to user if input is void" />
   </component>
 </project>
