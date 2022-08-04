@@ -67,5 +67,27 @@ public class MenuOptions {
         }
     }
 
+    //File search
+    protected static void searchFile(String fileToBeSearched) {
+
+        File file = new File( (System.getProperty("user.dir") ) + "\\" + fileToBeSearched );
+
+        //Check if file exists or not.
+        if(file.exists()) {
+            System.out.println("Congrats! File found!");
+        } else {
+            System.out.println("Sorry, File Was Not Found");
+        }	PrintWriter pw;
+        try {
+            pw = new PrintWriter(fileToBeSearched);
+            pw.println("saved");
+        }
+        // providing the checked exception handler
+        catch (FileNotFoundException e) {
+
+            System.out.println(e);
+        }
+    }
+
 
 }
