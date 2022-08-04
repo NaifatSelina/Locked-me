@@ -53,4 +53,19 @@ public class MenuOptions {
 
     }
 
+    //File delete function
+    protected static void deleteFile(String fileToBeDeleted) {
+
+        File file = new File( (System.getProperty("user.dir") ) + "\\" + fileToBeDeleted );
+
+        if(file.exists()) {
+            if ( file.delete() ) {
+                System.out.println("Thank You! File deleted successfully!");
+            }
+        } else {
+            System.out.println("Sorry, File wasn't deleted (File Not Found Try Again)");
+        }
+    }
+
+
 }
